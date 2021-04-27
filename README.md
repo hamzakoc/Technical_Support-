@@ -17,3 +17,7 @@ In addition, each row in the Customers table is related to one row in the Countr
 The description of the assignment includes one or more screen captures (wireframes) that conveys how the pages should conceptually appear when they’re completed as well as specifications for how the assignment should be coded. Please note however, the design of each page, and the overall application however, is ultimately left up to each team. A level of creativity and originality is much appreciated.
 This information is detailed enough for you to complete the assignment. However, you’ll need to use your best judgment on how to code many of the details. To do that, write the code in the way that you think is best.
 For some requirements, the assignment’s specifications will require your team to perform a certain amount of research. For example, some requirements will require the study of technologies/enhancements related to the course material, but may perhaps have yet to be formally covered in the course lectures.
+
+My Portfolio: https://hamzakoc.ca/
+Source Code: https://github.com/hamzakoc/Technical_Support-
+Intro: https://youtu.be/d30EG-s_iBc
